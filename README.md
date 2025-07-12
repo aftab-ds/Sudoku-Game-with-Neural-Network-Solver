@@ -35,8 +35,7 @@ Here are the key places where neural network concepts are used in the Sudoku sol
    - Trained model is saved to disk to avoid retraining
    - Model weights and architecture are preserved for future use
 
-When explaining to your teacher, you could emphasize that this project demonstrates:
-- Practical application of neural networks for image recognition
+
 - The complete machine learning workflow (data prep → training → evaluation → inference)
 - Integration of neural networks with traditional algorithms (the Sudoku solver)
 - How transfer learning concepts are applied (using a model trained on MNIST to recognize digits in a new context)
